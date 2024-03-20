@@ -22,8 +22,8 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Judy",
-                1000,
+                "Ebrahim Farhadi",
+                1500,
                 "Web Developer",
                 1000,
                 "Mobile Developer",
@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          Trust me to turn your ideas into exceptional web solutions .
           </p>
           <div>
             <Link
