@@ -7,12 +7,12 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
+    title: "Modern UX_UI AI Chatting",
+    description: "Possibilities of AI Chatting",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/EbiluFarhadi/bionicmaster.git",
+    previewUrl: "https://bionic-ai.netlify.app/",
   },
   {
     id: 2,
